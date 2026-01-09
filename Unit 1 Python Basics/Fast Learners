@@ -1,1 +1,11 @@
-
+What is programming? Why it is important.
+What is python? Explain the features of python .
+Write a code to get all type of data and display the result.
+Explain the string concatenation and string repetition with example.
+Write a program that take integer as input and display result in float type with two decimal.
+Find out the result of following program:
+a=56
+b=45
+c=34
+a=a+b+a
+print(a)
