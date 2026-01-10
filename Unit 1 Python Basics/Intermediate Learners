@@ -3,10 +3,5 @@ Write a program to print Hello World with tab
 Write a program to get a character as an input and print its ASCII value.
 
 Questions for intermediate learners:
-What is python ? List out the features of python programming.
-What is variable? List out the rule for naming variable .
-Explain different type of data type with example.
-What is typecasting? Explain with example.
-Compare mutable and immutable data type in python.
-Explain about input() and print() with example.
+
 
