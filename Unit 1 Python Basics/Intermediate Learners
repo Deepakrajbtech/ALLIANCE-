@@ -5,3 +5,4 @@ Write a program to get a character as an input and print its ASCII value.
 Questions for intermediate learners:
 Write a program to swap two numbers.
 Get name and city as input and print them on separate lines.
+Store an integer and print it as a string and check the class type of it.
