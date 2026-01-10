@@ -3,6 +3,8 @@ Write a program to print Hello World with tab.
 Write a program to get a character as an input and print its ASCII value.
 
 Question for slow learners:
-Get input from user and check the type of the datatype
+Get input from user and check the type of the datatype.
+Get a string input and convert it to int datatype.
 Write a program to print "Hello" and "World" in a new line.
 Write a program to get a ASCII value as input and print its equivalent character.
+
