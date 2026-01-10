@@ -3,9 +3,4 @@ Write a program to print Hello World with tab
 Write a program to get a character as an input and print its ASCII value.
 
 Qusetion for Fast learner:
-Find out the result of following program:
-a=56
-b=45
-c=34
-a=a+b+a
-print(a)
+
