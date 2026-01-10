@@ -4,3 +4,5 @@ Write a program to get a character as an input and print its ASCII value.
 
 Qusetion for Fast learner:
 Write a program to swap two numbers without using a third variable.
+Get a float value and print it exactly as entered, without modifying its precision.
+Write a program to convert user input from string to integer and float.
