@@ -1,8 +1,35 @@
-Questions Taught in class:
-Write a program to print Hello World with tab
-Write a program to get a character as an input and print its ASCII value.
+MODULE 1:
+1. Design a fare calculation system that varies charges based on distance slabs and travel class.
+2. Create a grading evaluator that assigns remarks based on marks and attendance percentage.
+3. Build a tax calculator that applies different tax rates based on income brackets.
+4. Determine loan eligibility using age, salary, and credit score conditions.
+5. Develop a mobile data plan selector based on usage and budget constraints.
+6. Compare prices of three vendors and recommend the most cost-effective option.
+7. Implement a discount system that applies different rules for festival and non-festival days.
+8. Validate login credentials with username format rules and password strength checks.
+9. Classify a quadrilateral based on the lengths of its sides and angles.
+10. Design a billing system that rounds totals differently for cash and digital payments.
 
-Questions for intermediate learners:
-Write a program to swap two numbers.
-Get name and city as input and print them on separate lines.
-Store an integer and print it as a string and check the class type of it.
+MODULE 2:
+1. Generate all composite numbers within a user-defined range.
+2. Count how many elements in a list are greater than the average value.
+3. Rearrange words in a sentence based on their length.
+4. Eliminate repeated values from a list while preserving original order.
+5. Construct a zigzag numeric pattern using nested loops.
+6. Measure sentence density by calculating words per line.
+7. Simulate task completion tracking using a progress counter.
+8. Manage a simple shopping cart system using lists and loops.
+9. Demonstrate loop control by skipping invalid entries during input processing.
+10. Rotate characters in a string by a fixed number of positions.
+
+MODULE 3:
+1. Write a function that identifies and returns uncommon elements between two lists.
+2. Create a function that categorizes characters into uppercase, lowercase, digits, and symbols.
+3. Compute net sales after tax and discounts using reusable functions.
+4. Merge contents of two text files into a third file.
+5. Safely read data from a file and handle missing file errors gracefully.
+6. Use recursion to compute the sum of digits until a single digit remains.
+7. Design a modular program where each function handles a separate validation task.
+8. Create a function that checks data consistency before file storage.
+9. Apply recursion to solve a countdown-based simulation problem.
+10. Read structured numerical data from a file and generate summary statistics.
