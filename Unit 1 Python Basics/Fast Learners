@@ -1,8 +1,38 @@
-Questions Taught in class:
-Write a program to print Hello World with tab
-Write a program to get a character as an input and print its ASCII value.
+MODULE 1:
 
-Qusetion for Fast learner:
-Write a program to swap two numbers without using a third variable.
-Get a float value and print it exactly as entered, without modifying its precision.
-Write a program to convert user input from string to integer and float.
+1. Accept a user’s name and age, then display a formatted sentence combining both.
+2. Determine whether a given number is divisible by both 5 and 11.
+3. Read three numbers and identify the smallest among them.
+4. Check whether a given character is an alphabet, digit, or special symbol.
+5. Calculate the total marks and average of five subjects and assign a grade.
+6. Input a number and determine whether it is even, odd, or neither (for zero).
+7. Read a time in hours and minutes and convert it fully into minutes.
+8. Accept basic salary and calculate gross salary using HRA and DA rules.
+9. Compare two strings and determine if they are exactly equal.
+10. Read a number and decide whether it belongs to a single-digit, double-digit, or multi-digit category.
+
+ MODULE 2:
+
+1. Print all odd numbers between two user-given limits.
+2. Count how many numbers between 1 and N are divisible by 3.
+3. Generate a square number pattern using nested loops.
+4. Remove duplicate elements from a list without using built-in functions.
+5. Find the frequency of each character in a string.
+6. Display the sum of even and odd numbers separately from a list.
+7. Check whether a given string is a palindrome using a loop.
+8. Rotate elements of a list by one position to the right.
+9. Create a hollow rectangle pattern using symbols.
+10. Find the second largest element in a list.
+
+MODULE 3:
+
+1. Write a function that returns the square and cube of a number together.
+2. Create a function to check whether a number is an Armstrong number.
+3. Use recursion to calculate the sum of first N natural numbers.
+4. Write a function that counts vowels and consonants separately in a string.
+5. Store multiple student names in a file and display them line by line.
+6. Append new data to an existing file without deleting old content.
+7. Create a recursive function to reverse a number.
+8. Write a function that accepts a list and returns only prime numbers.
+9. Read numbers from a file and find their total and average.
+10. Demonstrate function calling another function with meaningful output.
