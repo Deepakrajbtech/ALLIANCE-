@@ -1,38 +1,39 @@
-MODULE 1:
+ MODULE 1:
+1. Determine whether a number satisfies multiple numeric identities simultaneously (e.g., divisibility, digit constraints, and symmetry).
+2. Evaluate an expression where rearranging parentheses alters the final outcome and justify the difference.
+3. Detect whether a number sequence follows a mixed progression rule (alternating arithmetic and geometric).
+4. Design a multi-constraint scheduling system that prioritizes tasks based on urgency, duration, and dependency.
+5. Solve a real-world resource allocation problem using deeply nested conditional logic.
+6. Refactor a complex conditional chain to reduce comparison count while preserving correctness.
+7. Identify overflow and underflow risks when processing extremely large integer inputs.
+8. Generate formatted output that changes structure based on multiple conditional flags.
+9. Handle conflicting conditions in a decision tree and determine the dominant rule.
+10. Construct a minimal-condition classifier for categorizing inputs into more than five categories.
 
-1. Accept a user’s name and age, then display a formatted sentence combining both.
-2. Determine whether a given number is divisible by both 5 and 11.
-3. Read three numbers and identify the smallest among them.
-4. Check whether a given character is an alphabet, digit, or special symbol.
-5. Calculate the total marks and average of five subjects and assign a grade.
-6. Input a number and determine whether it is even, odd, or neither (for zero).
-7. Read a time in hours and minutes and convert it fully into minutes.
-8. Accept basic salary and calculate gross salary using HRA and DA rules.
-9. Compare two strings and determine if they are exactly equal.
-10. Read a number and decide whether it belongs to a single-digit, double-digit, or multi-digit category.
-
- MODULE 2:
-
-1. Print all odd numbers between two user-given limits.
-2. Count how many numbers between 1 and N are divisible by 3.
-3. Generate a square number pattern using nested loops.
-4. Remove duplicate elements from a list without using built-in functions.
-5. Find the frequency of each character in a string.
-6. Display the sum of even and odd numbers separately from a list.
-7. Check whether a given string is a palindrome using a loop.
-8. Rotate elements of a list by one position to the right.
-9. Create a hollow rectangle pattern using symbols.
-10. Find the second largest element in a list.
+MODULE 2:
+1. Compute a rolling aggregate where each element depends on all previous computations.
+2. Perform cyclic shifts on a list efficiently without using auxiliary storage.
+3. Identify all repeating values in a dataset where frequency exceeds a threshold.
+4. Reorder a list so that sentinel values are grouped without disturbing relative order.
+5. Verify palindrome properties under transformation rules (case-insensitive, ignoring symbols).
+6. Analyze binary representations to detect recurring bit patterns.
+7. Determine missing and extra elements when two sequences are meant to match.
+8. Optimize nested iteration by eliminating redundant comparisons.
+9. Transform a string using index-mapping rules derived from its length.
+10. Generate complex patterns using only one loop variable.
 
 MODULE 3:
 
-1. Write a function that returns the square and cube of a number together.
-2. Create a function to check whether a number is an Armstrong number.
-3. Use recursion to calculate the sum of first N natural numbers.
-4. Write a function that counts vowels and consonants separately in a string.
-5. Store multiple student names in a file and display them line by line.
-6. Append new data to an existing file without deleting old content.
-7. Create a recursive function to reverse a number.
-8. Write a function that accepts a list and returns only prime numbers.
-9. Read numbers from a file and find their total and average.
-10. Demonstrate function calling another function with meaningful output.
+1. Compute the greatest common divisor across a dynamic set of values using recursive decomposition.
+2. Analyze repeating substrings in a string using recursive partitioning.
+3. Solve a numeric reduction problem where recursion stops based on convergence, not size.
+4. Introduce memoization into a recursive solution and compare time complexity.
+5. Process very large files line-by-line while minimizing memory usage.
+6. Detect structural patterns in recursively generated sequences.
+7. Combine recursion with list slicing to solve hierarchical problems.
+8. Design a reusable utility module that supports multiple independent programs.
+9. Safely terminate recursive calls when input violates constraints.
+10. Apply recursion to simulate real-world cascading events (e.g., chain reactions, dependencies).
+
+
+Just tell me 🚀
